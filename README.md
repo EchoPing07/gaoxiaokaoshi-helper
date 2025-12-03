@@ -34,7 +34,8 @@
 
 2. 安装脚本：
    - [Greasy Fork 安装](https://greasyfork.org/) *(待发布)*
-   - 或直接复制 `script.js` 内容到油猴新建脚本中
+   - [ScriptCat 安装](https://scriptcat.org/zh-CN/script-show-page/4790)
+   - 或直接复制 `script.user.js` 内容到油猴新建脚本中
 
 ## 🚀 使用说明
 
